@@ -27,3 +27,5 @@ https://github.com/cbrnix/Newaita
 
 ![Screenshot_20190406_105228](https://user-images.githubusercontent.com/41884680/55673497-4fcd1d00-586e-11e9-8cd4-9f7a1116c184.png)
 
+![Screenshot_20190406_104938](https://user-images.githubusercontent.com/41884680/55673512-712e0900-586e-11e9-8c08-98c211715be0.png)
+
